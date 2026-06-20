@@ -111,4 +111,4 @@ to see your session results.
 - No final assessment report yet (per-question feedback and a running
   average exist; a generated end-of-session summary does not).
 - No automated test suite yet — see `tests/test_scenarios.md` for the
-  manual scenarios to check after changes.
+manual scenarios to check after changes.
